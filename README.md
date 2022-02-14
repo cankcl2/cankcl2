@@ -1,7 +1,7 @@
 # Hi there, I'm Can  👋 
 
 
-## I'm a Musician, Cat Father, Developer, Music Producer and Computer Science Teacher Candidate!
+## I'm a Musician, Cat Father, Developer, Music Producer and Computer Science Teacher Candidate *yeah i know its too much!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
