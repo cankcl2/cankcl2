@@ -19,7 +19,8 @@
 
 <br />
 <br />
-### Connect with me:
+
+## Connect with me:
 
 [Instagram Contact](https://www.instagram.com/can.akcali)
 
