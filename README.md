@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![Instagram Contact](https://www.instagram.com/can.akcali)
+[Instagram Contact](https://www.instagram.com/can.akcali)
 
 ### Languages and Tools:
 
