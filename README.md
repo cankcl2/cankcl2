@@ -18,9 +18,8 @@
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 
 <br />
+<br />
 ### Connect with me:
 
 [Instagram Contact](https://www.instagram.com/can.akcali)
 
-<br />
-<br />
