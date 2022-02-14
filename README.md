@@ -22,5 +22,6 @@
 
 ## Connect with me:
 
-[Instagram Contact](https://www.instagram.com/can.akcali)
+[Instagram](https://www.instagram.com/can.akcali)
+[LinkedIn](https://www.linkedin.com/in/h-can-akcali/)
 
