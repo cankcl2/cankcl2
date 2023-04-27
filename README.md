@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get an intern or job abroad
+- 🥅 2023 Goals: Get an intern or job abroad
 - ⚡ Fun fact: I can't even pass a day without having a cup of tea
 
 
