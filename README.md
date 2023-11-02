@@ -10,6 +10,8 @@
 
 To check out my game projects : [Itch.io](https://cankcl.itch.io/)
 
+To check out my CodeWars katas : [CodeWars](https://www.codewars.com/users/cankcl2)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
