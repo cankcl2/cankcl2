@@ -26,4 +26,6 @@
 
 - [Instagram](https://www.instagram.com/can.akcali) 
 - [LinkedIn](https://www.linkedin.com/in/h-can-akcali/)
+- [Itch.io](https://cankcl.itch.io/)
+- [CodeWars](https://www.codewars.com/users/cankcl2)
 
