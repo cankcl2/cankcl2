@@ -8,6 +8,7 @@
 - 🥅 2023 Goals: Get a job
 - ⚡ Fun fact: I can't even pass a day without having a cup of coffee
 
+To check out my game projects : [Itch.io](https://cankcl.itch.io/)
 
 ### Languages and Tools:
 
