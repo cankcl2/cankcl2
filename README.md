@@ -1,11 +1,11 @@
 # Hi there, I'm Can  👋 
 
 
-## I'm a Musician, Developer, Music Producer and Computer Science Teacher Candidate *yeah its kinda too much!
+## a Musician, Developer and Music Producer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Get a job in Canada
+- 🥅 2024 Goals: Get a gamedev job in Canada
 - ⚡ Fun fact: I can't even pass a day without having a cup of coffee
 
 To check out my game projects : [Itch.io](https://cankcl.itch.io/)
