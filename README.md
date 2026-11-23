@@ -17,7 +17,7 @@
   <img alt="Businesses" src="https://img.shields.io/badge/businesses-15%2C000%2B-e76f51?style=flat-square" />
   <img alt="Websites" src="https://img.shields.io/badge/websites_on_one_codebase-650%2B-e76f51?style=flat-square" />
   <br />
-  <img alt="872 commits" src="https://img.shields.io/badge/commits_Jul–Nov_2026-872-2a9d8f?style=flat-square" />
+  <img alt="872 commits" src="https://img.shields.io/badge/commits_since_June_2026-872-2a9d8f?style=flat-square" />
   <img alt="App Store and Google Play" src="https://img.shields.io/badge/app-iOS_%2B_Android-2a9d8f?style=flat-square" />
   <img alt="Uptime" src="https://img.shields.io/badge/requests_without_a_server_error-99.9%25-2a9d8f?style=flat-square" />
 </p>
