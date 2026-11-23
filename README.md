@@ -1,34 +1,70 @@
-# Hi there, I'm Can  👋 
+<h1 align="center">Hüseyin Can Akçalı</h1>
 
+<p align="center">
+  <b>Full-Stack Developer · Toronto</b><br />
+  I build and ship whole products: web, mobile, databases, and the AI features on top.
+</p>
 
-## a Musician, Developer and Music Producer
+<p align="center">
+  <a href="https://cankcl2.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-cankcl2.github.io-f4b860?style=for-the-badge&labelColor=1b1a19" /></a>
+  <a href="https://www.linkedin.com/in/h-can-akcali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-h--can--akcali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1a19" /></a>
+  <a href="mailto:can.akcali2@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-can.akcali2%40gmail.com-e76f51?style=for-the-badge&labelColor=1b1a19" /></a>
+</p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Get a gamedev job in Canada
-- ⚡ Fun fact: I can't even pass a day without having a cup of coffee
+<p align="center">
+  <img alt="872 commits" src="https://img.shields.io/badge/commits_Jul–Nov_2026-872-2a9d8f?style=flat-square" />
+  <img alt="6 live products" src="https://img.shields.io/badge/live_products-6-2a9d8f?style=flat-square" />
+  <img alt="App Store and Google Play" src="https://img.shields.io/badge/app-iOS_%2B_Android-2a9d8f?style=flat-square" />
+  <img alt="Indexed pages" src="https://img.shields.io/badge/Google--indexed_pages-40k_→_115k-2a9d8f?style=flat-square" />
+</p>
 
-To check out my game projects : [Itch.io](https://cankcl.itch.io/)
+---
 
-To check out my CodeWars katas : [CodeWars](https://www.codewars.com/users/cankcl2)
+### 🚀 What I've shipped in 2026
 
-### Languages and Tools:
+I'm the developer behind **ahaidea**, the Korean-Canadian community platform: web, mobile, AI and e-commerce, all live and used every day.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+| | Product | Highlights |
+|---|---|---|
+| 🌐 | [**ahaidea.com**](https://ahaidea.com): community portal | Redesigned live, section by section · a second city on its own domain ([London](https://londonkakao.com)) · Google-indexed pages 40k → 115k · pages up to 93% lighter |
+| ✨ | **AI search & assistant** | Claude with 9 search tools over real listings · streaming answers, follow-ups, voice, map pins · prompt caching and cost logging |
+| 📱 | **ahaidea app** · [iOS](https://apps.apple.com/app/id6822760533) · [Android](https://play.google.com/store/apps/details?id=com.ahaidea.app) | React Native + a new ASP.NET Core API · empty folder → both stores in ~5 weeks · Kakao / Apple / Google sign-in |
+| 💳 | **AhaCard**: digital member card | Signed Apple Wallet & Google Wallet passes · QR redemption by partner businesses · dashboard |
+| 🧩 | **AhaBlog**: many sites, one codebase | Community, club and business websites · templates edited right on the page · reservations, menus, takeout |
+| 🖨️ | [**smsigns.ca**](https://smsigns.ca): online print & sign store | A pricing engine for 10 product lines · 466,598 prices checked on every release · 300 MB uploads |
+| 🇰🇷🇨🇦 | **Seoul to Canada** *(launching soon)* | A bilingual Korea ↔ Canada platform built from scratch on .NET 10 |
 
+**→ Screens, case studies and the story behind each one: [cankcl2.github.io](https://cankcl2.github.io)**
 
-<br />
-<br />
+### 🛠️ Tech I use in production
 
-## Connect with me:
+<p>
+  <img alt="C#" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
+  <img alt=".NET" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
+  <img alt="SQL Server" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;
+  <img alt="JavaScript" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+  <img alt="React Native" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+  <img alt="Python" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+  <img alt="Node.js" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img alt="HTML5" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+  <img alt="CSS3" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
+  <img alt="Git" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+  <img alt="Unity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+</p>
 
-- [Instagram](https://www.instagram.com/can.akcali) 
-- [LinkedIn](https://www.linkedin.com/in/h-can-akcali/)
-- [Itch.io](https://cankcl.itch.io/)
-- [CodeWars](https://www.codewars.com/users/cankcl2)
+`ASP.NET Core` `ASP.NET WebForms` `Entity Framework` `Expo` `IIS` `Cloudflare` `Claude API` `Google Maps` `Google OAuth` `GA4` `Apple Wallet` `Google Wallet` `Twilio` `Brevo`
 
+### 🧭 How I work
+
+- **AI-assisted, openly.** I pair with Claude Code every day: I set the direction and review everything, the AI helps me move fast. My commits say so.
+- **Verify before shipping.** Before/after comparisons, test harnesses on real pages, database scripts with backups and rollbacks.
+- **Close to the people who use it.** I also meet the businesses on the platform, so feedback turns into the next release, often the same day.
+
+### 📍 Before this
+
+- **Co-founder, Kurgu Media** (Toronto, 2024–): video production, branding, websites and e-commerce for local businesses.
+- **AI Engineer intern, Radical AI** (2024): built ReX, an AI career coach on OpenAI and Gemini.
+- **Web Developer, Fabl Technology** (Ankara, 2023): PHP / MySQL web applications.
+- **Game development** in Unity and C#: a few of the repositories below, more on [itch.io](https://cankcl.itch.io/). Katas on [CodeWars](https://www.codewars.com/users/cankcl2).
+
+<sub>The production code I write belongs to my employer and lives in private repositories, so the contribution graph shows the work but not the code. Happy to walk through it in an interview. Off the clock, I make music.</sub>
