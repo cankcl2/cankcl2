@@ -12,17 +12,21 @@
 </p>
 
 <p align="center">
+  <img alt="Page views a month" src="https://img.shields.io/badge/page_views-2M_%2F_month-e76f51?style=flat-square" />
+  <img alt="Members" src="https://img.shields.io/badge/members-33%2C000%2B-e76f51?style=flat-square" />
+  <img alt="Businesses" src="https://img.shields.io/badge/businesses-15%2C000%2B-e76f51?style=flat-square" />
+  <img alt="Websites" src="https://img.shields.io/badge/websites_on_one_codebase-663-e76f51?style=flat-square" />
+  <br />
   <img alt="872 commits" src="https://img.shields.io/badge/commits_Jul–Nov_2026-872-2a9d8f?style=flat-square" />
-  <img alt="6 live products" src="https://img.shields.io/badge/live_products-6-2a9d8f?style=flat-square" />
   <img alt="App Store and Google Play" src="https://img.shields.io/badge/app-iOS_%2B_Android-2a9d8f?style=flat-square" />
-  <img alt="Indexed pages" src="https://img.shields.io/badge/Google--indexed_pages-40k_→_115k-2a9d8f?style=flat-square" />
+  <img alt="Uptime" src="https://img.shields.io/badge/requests_without_a_server_error-99.9%25-2a9d8f?style=flat-square" />
 </p>
 
 ---
 
 ### 🚀 What I've shipped in 2026
 
-I'm the developer behind **ahaidea**, the Korean-Canadian community platform: web, mobile, AI and e-commerce, all live and used every day.
+I'm the developer behind **ahaidea**, the Korean-Canadian community platform online since 2000: **33,000+ members, 15,000+ businesses, 663 websites and about 2 million page views a month**, across web, mobile, AI and e-commerce.
 
 | | Product | Highlights |
 |---|---|---|
@@ -30,7 +34,7 @@ I'm the developer behind **ahaidea**, the Korean-Canadian community platform: we
 | ✨ | **AI search & assistant** | Claude with 9 search tools over real listings · streaming answers, follow-ups, voice, map pins · prompt caching and cost logging |
 | 📱 | **ahaidea app** · [iOS](https://apps.apple.com/app/id6822760533) · [Android](https://play.google.com/store/apps/details?id=com.ahaidea.app) | React Native + a new ASP.NET Core API · empty folder → both stores in ~5 weeks · Kakao / Apple / Google sign-in |
 | 💳 | **AhaCard**: digital member card | Signed Apple Wallet & Google Wallet passes · QR redemption by partner businesses · dashboard |
-| 🧩 | **AhaBlog**: many sites, one codebase | Community, club and business websites · templates edited right on the page · reservations, menus, takeout |
+| 🧩 | **AhaBlog**: 663 sites, one codebase | Community, club and business websites · templates edited right on the page · reservations, menus, takeout |
 | 🖨️ | [**smsigns.ca**](https://smsigns.ca): online print & sign store | A pricing engine for 10 product lines · 466,598 prices checked on every release · 300 MB uploads |
 | 🇰🇷🇨🇦 | **Seoul to Canada** *(launching soon)* | A bilingual Korea ↔ Canada platform built from scratch on .NET 10 |
 
