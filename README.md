@@ -30,14 +30,14 @@ I'm the developer behind **ahaidea**, the Korean-Canadian community platform onl
 
 | | Product | Highlights |
 |---|---|---|
-| 🌐 | [**ahaidea.com**](https://ahaidea.com): community portal | The whole site redesigned live · security audit, every gap closed · a second city on its own domain ([London](https://londonkakao.com)) · Google-indexed pages 40k → 115k · pages up to 93% lighter |
+| 🌐 | [**ahaidea.com**](https://ahaidea.com): community portal | The whole site redesigned live · security audit, every gap closed · two more cities on their own domains ([London](https://londonkakao.com), [Seoul](https://seoultocanada.com)) · Google-indexed pages 40k → 115k · pages up to 93% lighter |
 | 🛒 | **E-commerce for businesses** | Every listed business can open its own online shop and take pickup orders: menus, order screens, SMS alerts, right inside the portal |
 | ✨ | **AI assistant & AI search** | Claude with 9 search tools over real listings · streaming answers, follow-ups, voice, map pins · prompt caching and cost logging |
 | 📱 | **ahaidea app** · [iOS](https://apps.apple.com/app/id6822760533) · [Android](https://play.google.com/store/apps/details?id=com.ahaidea.app) | React Native + a new ASP.NET Core API · empty folder → both stores in ~5 weeks · Kakao / Apple / Google sign-in |
 | 💳 | **AhaCard**: digital member card | Signed Apple Wallet & Google Wallet passes · QR redemption by partner businesses · dashboard |
 | 🧩 | **AhaBlog**: 650+ sites, one codebase | Community, club and business websites · templates edited right on the page · reservations, menus, takeout |
 | 🖨️ | [**smsigns.ca**](https://smsigns.ca): online print & sign store | A pricing engine for 10 product lines · 466,598 prices checked on every release · 300 MB uploads |
-| 🇰🇷🇨🇦 | **Seoul to Canada** *(launching soon)* | A bilingual Korea ↔ Canada platform built from scratch on .NET 10 |
+| 🇰🇷🇨🇦 | [**Seoul to Canada**](https://seoultocanada.com): the third city | The platform's third regional site, live: its own domain, content, blue theme and regional admin on the same engine as Toronto and London |
 
 **→ Screens, case studies and the story behind each one: [cankcl2.github.io](https://cankcl2.github.io)**
 
