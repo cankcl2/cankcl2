@@ -17,7 +17,7 @@
   <img alt="Businesses" src="https://img.shields.io/badge/businesses-15%2C000%2B-e76f51?style=flat-square" />
   <img alt="Websites" src="https://img.shields.io/badge/websites_on_one_codebase-650%2B-e76f51?style=flat-square" />
   <br />
-  <img alt="872 commits" src="https://img.shields.io/badge/commits_since_June_2026-872-2a9d8f?style=flat-square" />
+  <img alt="954 commits" src="https://img.shields.io/badge/commits_since_June_2026-954-2a9d8f?style=flat-square" />
   <img alt="App Store and Google Play" src="https://img.shields.io/badge/app-iOS_%2B_Android-2a9d8f?style=flat-square" />
   <img alt="Uptime" src="https://img.shields.io/badge/requests_without_a_server_error-99.9%25-2a9d8f?style=flat-square" />
 </p>
@@ -39,6 +39,15 @@ I'm the developer behind **ahaidea**, the Korean-Canadian community platform onl
 | 🖨️ | [**smsigns.ca**](https://smsigns.ca): online print & sign store | A pricing engine for 10 product lines · 466,598 prices checked on every release · 300 MB uploads |
 | 🇰🇷🇨🇦 | [**Seoul to Canada**](https://seoultocanada.com): the third city | The platform's third regional site, live: its own domain, content, blue theme and regional admin on the same engine as Toronto and London |
 
+### 🧪 My own apps
+
+Built end to end on my own time: product, design, code and the product site. Coming soon to the App Store and Google Play.
+
+| | App | Highlights |
+|---|---|---|
+| 🧩 | [**Cluewise**](https://cankcl2.github.io/cluewise-site/): learn English one crossword at a time | 270 levels and 1,272 words from A1 to C1 · spaced review, weakest words first · five word games · no account, no ads, no tracking · React Native, Expo, TypeScript |
+| 💸 | [**Leftwise**](https://cankcl2.github.io/leftwise-site/): know what's due before payday | Bill reminders with a payday countdown · every kind of bill, installments to autopay · on-device SQLite, no bank login, no servers · free up to 10 bills, Pro $6.99 once · React Native, Expo, TypeScript |
+
 **→ Screens, case studies and the story behind each one: [cankcl2.github.io](https://cankcl2.github.io)**
 
 ### 🛠️ Tech I use in production
@@ -57,7 +66,7 @@ I'm the developer behind **ahaidea**, the Korean-Canadian community platform onl
   <img alt="Unity" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </p>
 
-`ASP.NET Core` `ASP.NET WebForms` `Entity Framework` `Expo` `IIS` `Cloudflare` `Claude API` `Google Maps` `Google OAuth` `GA4` `Apple Wallet` `Google Wallet` `Twilio` `Brevo`
+`ASP.NET Core` `ASP.NET WebForms` `Entity Framework` `TypeScript` `Expo` `IIS` `Cloudflare` `Claude API` `Google Maps` `Google OAuth` `GA4` `Apple Wallet` `Google Wallet` `Twilio` `Brevo`
 
 ### 🧭 How I work
 
